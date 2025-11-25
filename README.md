@@ -138,4 +138,3 @@ For questions or support, please contact the repository owner or open an issue o
 
 You can start learning the fundamentals of the MIPS instruction set and assembly language by watching [You Can Learn MIPS Assembly in 15 Minutes](https://www.youtube.com/watch?v=5AN4Fo0GiBI).
 
-http://googleusercontent.com/youtube_content/0
