@@ -1,7 +1,7 @@
 # MIPS Stack Machine
 
 ![Language](https://img.shields.io/badge/Language-MIPS%20Assembly-red?style=flat&logo=assembly)
-![Architecture](https://imgshields.io/badge/Architecture-MIPS32-00599C?style=flat)
+![Architecture](https://img.shields.io/badge/Architecture-MIPS32-00599C?style=flat)
 ![Emulator](https://img.shields.io/badge/Run_With-MARS%20Simulator-yellowgreen?style=flat&logo=java)
 ![OS](https://img.shields.io/badge/OS-Platform%20Agnostic-lightgrey?style=flat)
 
